@@ -1,3 +1,6 @@
+#Holds functions necessary for i2c communication#
+#Also where the addresses are stored for each arduino#
+
 import smbus
 import time
 
